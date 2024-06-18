@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>57-Agar-Daging-tidak-Tercemar-begini-cara-simpannya-forward-by-Pondok-Mantau-mantau-sapi-lada-hitam-oleh-oleh-Enak-dari-Balikpapan_jpg.rf.500cbdba6574dbc4e435b4390c40a630.jpg</filename>
+	<path>57-Agar-Daging-tidak-Tercemar-begini-cara-simpannya-forward-by-Pondok-Mantau-mantau-sapi-lada-hitam-oleh-oleh-Enak-dari-Balikpapan_jpg.rf.500cbdba6574dbc4e435b4390c40a630.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daging Sapi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>313</xmax>
+			<ymin>76</ymin>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daging Sapi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>321</xmax>
+			<ymin>2</ymin>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

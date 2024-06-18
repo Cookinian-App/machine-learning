@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Nasi_dibentuk_bulat_jpg.rf.c022e4d8cc17991ed89926cbc49635eb.jpg</filename>
+	<path>Nasi_dibentuk_bulat_jpg.rf.c022e4d8cc17991ed89926cbc49635eb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>271</xmax>
+			<ymin>37</ymin>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>chicken_710_jpg.rf.4ee09ff52c0497c4c3f3d7e39333946f.jpg</filename>
+	<path>chicken_710_jpg.rf.4ee09ff52c0497c4c3f3d7e39333946f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>320</xmax>
+			<ymin>1</ymin>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

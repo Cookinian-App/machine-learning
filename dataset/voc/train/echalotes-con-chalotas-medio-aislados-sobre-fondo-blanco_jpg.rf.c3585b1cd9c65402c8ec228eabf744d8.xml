@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>echalotes-con-chalotas-medio-aislados-sobre-fondo-blanco_jpg.rf.c3585b1cd9c65402c8ec228eabf744d8.jpg</filename>
+	<path>echalotes-con-chalotas-medio-aislados-sobre-fondo-blanco_jpg.rf.c3585b1cd9c65402c8ec228eabf744d8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>141</xmin>
+			<xmax>287</xmax>
+			<ymin>109</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>200</xmax>
+			<ymin>71</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_2433_JPG_jpg.rf.377e4ff069a7ef1de039c934b629a4ae.jpg</filename>
+	<path>IMG_2433_JPG_jpg.rf.377e4ff069a7ef1de039c934b629a4ae.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Telur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>108</xmin>
+			<xmax>181</xmax>
+			<ymin>144</ymin>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

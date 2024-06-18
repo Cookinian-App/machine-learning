@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Image_71_jpg.rf.e9035ecc7b623496b751d2c2d289cec5.jpg</filename>
+	<path>Image_71_jpg.rf.e9035ecc7b623496b751d2c2d289cec5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>133</xmin>
+			<xmax>288</xmax>
+			<ymin>106</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>175</xmin>
+			<xmax>236</xmax>
+			<ymin>129</ymin>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

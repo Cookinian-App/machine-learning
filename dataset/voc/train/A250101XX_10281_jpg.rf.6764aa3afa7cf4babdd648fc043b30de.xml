@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>A250101XX_10281_jpg.rf.6764aa3afa7cf4babdd648fc043b30de.jpg</filename>
+	<path>A250101XX_10281_jpg.rf.6764aa3afa7cf4babdd648fc043b30de.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>91</xmin>
+			<xmax>274</xmax>
+			<ymin>57</ymin>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

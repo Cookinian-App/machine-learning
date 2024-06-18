@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20221122_210557_jpg.rf.d0c44d9cffc851dcf459ec8dabfdf2fe.jpg</filename>
+	<path>IMG_20221122_210557_jpg.rf.d0c44d9cffc851dcf459ec8dabfdf2fe.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cabai Hijau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>90</xmin>
+			<xmax>221</xmax>
+			<ymin>87</ymin>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>lovepik-beef-picture_501060049_jpg.rf.ea738cc0193fbf15b19d50732733cd4c.jpg</filename>
+	<path>lovepik-beef-picture_501060049_jpg.rf.ea738cc0193fbf15b19d50732733cd4c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daging Sapi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>249</xmax>
+			<ymin>148</ymin>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daging Sapi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>67</xmin>
+			<xmax>231</xmax>
+			<ymin>59</ymin>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daging Sapi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>214</xmin>
+			<xmax>293</xmax>
+			<ymin>130</ymin>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>talong92_JPG_jpg.rf.58a28c09e4878726a663b0d9858f9e04.jpg</filename>
+	<path>talong92_JPG_jpg.rf.58a28c09e4878726a663b0d9858f9e04.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>276</xmax>
+			<ymin>209</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

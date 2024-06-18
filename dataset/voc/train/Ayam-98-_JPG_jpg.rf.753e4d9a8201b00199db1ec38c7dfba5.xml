@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Ayam-98-_JPG_jpg.rf.753e4d9a8201b00199db1ec38c7dfba5.jpg</filename>
+	<path>Ayam-98-_JPG_jpg.rf.753e4d9a8201b00199db1ec38c7dfba5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ayam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>299</xmax>
+			<ymin>40</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

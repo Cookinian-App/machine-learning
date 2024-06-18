@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>kamatis481_JPG_jpg.rf.07ec9ca486b32c1ad920a65d3c87ec6b.jpg</filename>
+	<path>kamatis481_JPG_jpg.rf.07ec9ca486b32c1ad920a65d3c87ec6b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>300</xmax>
+			<ymin>105</ymin>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

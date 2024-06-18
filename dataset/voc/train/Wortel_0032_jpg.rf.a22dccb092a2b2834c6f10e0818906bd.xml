@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Wortel_0032_jpg.rf.a22dccb092a2b2834c6f10e0818906bd.jpg</filename>
+	<path>Wortel_0032_jpg.rf.a22dccb092a2b2834c6f10e0818906bd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wortel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>249</xmax>
+			<ymin>111</ymin>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

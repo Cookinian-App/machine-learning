@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>dubu-71-_jpg.rf.7c47aa8da4339f218502a06957a46328.jpg</filename>
+	<path>dubu-71-_jpg.rf.7c47aa8da4339f218502a06957a46328.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>299</xmax>
+			<ymin>171</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

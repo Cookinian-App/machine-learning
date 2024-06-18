@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>upo44_jpg.rf.0dad18ffe5ff3699ba86d2e997b5ecda.jpg</filename>
+	<path>upo44_jpg.rf.0dad18ffe5ff3699ba86d2e997b5ecda.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>320</xmax>
+			<ymin>175</ymin>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

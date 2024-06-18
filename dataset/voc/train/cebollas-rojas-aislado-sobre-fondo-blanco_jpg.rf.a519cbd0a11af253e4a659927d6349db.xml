@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cebollas-rojas-aislado-sobre-fondo-blanco_jpg.rf.a519cbd0a11af253e4a659927d6349db.jpg</filename>
+	<path>cebollas-rojas-aislado-sobre-fondo-blanco_jpg.rf.a519cbd0a11af253e4a659927d6349db.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>298</xmax>
+			<ymin>34</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>gambar_13_jpg.rf.1938b4a24854b3a90aebab6c895baaca.jpg</filename>
+	<path>gambar_13_jpg.rf.1938b4a24854b3a90aebab6c895baaca.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>171</xmin>
+			<xmax>288</xmax>
+			<ymin>26</ymin>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>bawang-putih_Image_91_jpg.rf.691caa5112b3cdeb30906dea9177b7da.jpg</filename>
+	<path>bawang-putih_Image_91_jpg.rf.691caa5112b3cdeb30906dea9177b7da.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>136</xmax>
+			<ymin>73</ymin>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bawang Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>158</xmax>
+			<ymin>10</ymin>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bawang Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>257</xmin>
+			<xmax>320</xmax>
+			<ymin>186</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bawang Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>143</xmax>
+			<ymin>149</ymin>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

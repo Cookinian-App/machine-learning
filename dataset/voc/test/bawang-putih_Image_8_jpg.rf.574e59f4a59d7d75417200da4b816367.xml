@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bawang-putih_Image_8_jpg.rf.574e59f4a59d7d75417200da4b816367.jpg</filename>
+	<path>bawang-putih_Image_8_jpg.rf.574e59f4a59d7d75417200da4b816367.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>67</xmin>
+			<xmax>282</xmax>
+			<ymin>128</ymin>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

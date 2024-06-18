@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Simply-Recipes-Tempeh-Guide-LEADS-04-924a46849a0f4d909b20d66e0eb39cac_jpg.rf.77379d3e8932ee882ad4fc2610317778.jpg</filename>
+	<path>Simply-Recipes-Tempeh-Guide-LEADS-04-924a46849a0f4d909b20d66e0eb39cac_jpg.rf.77379d3e8932ee882ad4fc2610317778.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>139</xmin>
+			<xmax>269</xmax>
+			<ymin>206</ymin>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

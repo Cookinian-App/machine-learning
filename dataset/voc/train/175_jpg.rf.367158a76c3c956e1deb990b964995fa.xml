@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>175_jpg.rf.367158a76c3c956e1deb990b964995fa.jpg</filename>
+	<path>175_jpg.rf.367158a76c3c956e1deb990b964995fa.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cabai Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>31</xmin>
+			<xmax>232</xmax>
+			<ymin>29</ymin>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cabai Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>311</xmax>
+			<ymin>94</ymin>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

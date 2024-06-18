@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>bloc-tempeh-soja-maison-1400x788-1_jpg.rf.3e950b3431d6d898d16981ec2c792a70.jpg</filename>
+	<path>bloc-tempeh-soja-maison-1400x788-1_jpg.rf.3e950b3431d6d898d16981ec2c792a70.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>321</xmax>
+			<ymin>37</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Garlic-test_73_jpg.rf.df03638d498a7050972331bd7b97db8e.jpg</filename>
+	<path>Garlic-test_73_jpg.rf.df03638d498a7050972331bd7b97db8e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>285</xmax>
+			<ymin>38</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

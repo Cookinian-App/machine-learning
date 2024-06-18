@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cebolla-morada-sobre-fondo-madera_251792-1792_jpg.rf.bbace3f71796e5949689f3eff8a24459.jpg</filename>
+	<path>cebolla-morada-sobre-fondo-madera_251792-1792_jpg.rf.bbace3f71796e5949689f3eff8a24459.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>53</xmin>
+			<xmax>273</xmax>
+			<ymin>33</ymin>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

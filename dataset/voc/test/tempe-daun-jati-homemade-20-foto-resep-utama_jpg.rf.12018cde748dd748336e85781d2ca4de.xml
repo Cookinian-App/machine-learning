@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>tempe-daun-jati-homemade-20-foto-resep-utama_jpg.rf.12018cde748dd748336e85781d2ca4de.jpg</filename>
+	<path>tempe-daun-jati-homemade-20-foto-resep-utama_jpg.rf.12018cde748dd748336e85781d2ca4de.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>249</xmax>
+			<ymin>77</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

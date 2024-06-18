@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>tempeh-1_jpg.rf.0f5276dcd949fb1e4a1eb137736ca004.jpg</filename>
+	<path>tempeh-1_jpg.rf.0f5276dcd949fb1e4a1eb137736ca004.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>114</xmin>
+			<xmax>253</xmax>
+			<ymin>87</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

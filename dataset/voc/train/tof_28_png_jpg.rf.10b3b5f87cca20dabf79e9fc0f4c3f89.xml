@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>tof_28_png_jpg.rf.10b3b5f87cca20dabf79e9fc0f4c3f89.jpg</filename>
+	<path>tof_28_png_jpg.rf.10b3b5f87cca20dabf79e9fc0f4c3f89.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tahu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>290</xmax>
+			<ymin>76</ymin>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

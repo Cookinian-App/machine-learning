@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Image_56_jpg.rf.94d1dfab042f828c7ddc3e63a2063a9d.jpg</filename>
+	<path>Image_56_jpg.rf.94d1dfab042f828c7ddc3e63a2063a9d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>33</xmin>
+			<xmax>290</xmax>
+			<ymin>53</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

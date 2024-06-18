@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>ilustrasi-daging-segar_jpg.rf.8e3965c9b69cb5bced773c89dabd04bf.jpg</filename>
+	<path>ilustrasi-daging-segar_jpg.rf.8e3965c9b69cb5bced773c89dabd04bf.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daging Sapi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>184</xmax>
+			<ymin>124</ymin>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Daging Sapi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>300</xmax>
+			<ymin>17</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

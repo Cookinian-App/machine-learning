@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Carrot-test_77_jpg.rf.37822f9dd67010bc48c2fecbf7dcf169.jpg</filename>
+	<path>Carrot-test_77_jpg.rf.37822f9dd67010bc48c2fecbf7dcf169.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wortel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>293</xmax>
+			<ymin>107</ymin>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

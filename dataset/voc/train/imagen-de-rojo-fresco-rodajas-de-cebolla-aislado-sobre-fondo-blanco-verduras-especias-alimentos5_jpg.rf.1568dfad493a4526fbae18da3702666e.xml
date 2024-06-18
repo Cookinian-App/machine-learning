@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>imagen-de-rojo-fresco-rodajas-de-cebolla-aislado-sobre-fondo-blanco-verduras-especias-alimentos5_jpg.rf.1568dfad493a4526fbae18da3702666e.jpg</filename>
+	<path>imagen-de-rojo-fresco-rodajas-de-cebolla-aislado-sobre-fondo-blanco-verduras-especias-alimentos5_jpg.rf.1568dfad493a4526fbae18da3702666e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>160</xmin>
+			<xmax>272</xmax>
+			<ymin>64</ymin>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

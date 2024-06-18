@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>cebolla-roja-sobre-fondo-blanco_jpg.rf.29234b2d554031ee7d402ab2f1694367.jpg</filename>
+	<path>cebolla-roja-sobre-fondo-blanco_jpg.rf.29234b2d554031ee7d402ab2f1694367.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>146</xmax>
+			<ymin>62</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>316</xmax>
+			<ymin>26</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>102</xmin>
+			<xmax>241</xmax>
+			<ymin>57</ymin>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

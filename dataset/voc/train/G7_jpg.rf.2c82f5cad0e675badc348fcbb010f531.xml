@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>G7_jpg.rf.2c82f5cad0e675badc348fcbb010f531.jpg</filename>
+	<path>G7_jpg.rf.2c82f5cad0e675badc348fcbb010f531.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cabai Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>142</xmin>
+			<xmax>193</xmax>
+			<ymin>46</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

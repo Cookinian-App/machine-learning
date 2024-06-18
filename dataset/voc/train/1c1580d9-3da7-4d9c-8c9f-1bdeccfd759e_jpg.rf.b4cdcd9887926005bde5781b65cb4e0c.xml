@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1c1580d9-3da7-4d9c-8c9f-1bdeccfd759e_jpg.rf.b4cdcd9887926005bde5781b65cb4e0c.jpg</filename>
+	<path>1c1580d9-3da7-4d9c-8c9f-1bdeccfd759e_jpg.rf.b4cdcd9887926005bde5781b65cb4e0c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tempe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>240</xmax>
+			<ymin>31</ymin>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

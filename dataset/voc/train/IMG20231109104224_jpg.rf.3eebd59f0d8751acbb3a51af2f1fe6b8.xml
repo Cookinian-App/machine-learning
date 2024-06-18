@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG20231109104224_jpg.rf.3eebd59f0d8751acbb3a51af2f1fe6b8.jpg</filename>
+	<path>IMG20231109104224_jpg.rf.3eebd59f0d8751acbb3a51af2f1fe6b8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ikan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>94</xmin>
+			<xmax>228</xmax>
+			<ymin>51</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

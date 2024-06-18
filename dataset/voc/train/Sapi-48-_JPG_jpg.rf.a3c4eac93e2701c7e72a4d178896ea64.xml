@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Sapi-48-_JPG_jpg.rf.a3c4eac93e2701c7e72a4d178896ea64.jpg</filename>
+	<path>Sapi-48-_JPG_jpg.rf.a3c4eac93e2701c7e72a4d178896ea64.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Daging Sapi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>298</xmax>
+			<ymin>70</ymin>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20220531_092849_jpg.rf.6861fa18fd2269e7520020f82d6012ae.jpg</filename>
+	<path>IMG_20220531_092849_jpg.rf.6861fa18fd2269e7520020f82d6012ae.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cabai Hijau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>84</xmin>
+			<xmax>254</xmax>
+			<ymin>241</ymin>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cabai Hijau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>257</xmax>
+			<ymin>17</ymin>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cabai Hijau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>308</xmax>
+			<ymin>132</ymin>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cabai Hijau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>67</xmin>
+			<xmax>270</xmax>
+			<ymin>88</ymin>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>img_e93abde6-c64a-4304-8106-18be5bf8502a1653362075870_jpg.rf.1f46c75d246204ba0a61425913034f76.jpg</filename>
+	<path>img_e93abde6-c64a-4304-8106-18be5bf8502a1653362075870_jpg.rf.1f46c75d246204ba0a61425913034f76.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>144</xmax>
+			<ymin>141</ymin>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

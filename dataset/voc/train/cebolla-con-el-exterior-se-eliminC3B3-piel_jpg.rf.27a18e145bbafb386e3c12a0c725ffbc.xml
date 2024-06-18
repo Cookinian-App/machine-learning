@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cebolla-con-el-exterior-se-eliminC3B3-piel_jpg.rf.27a18e145bbafb386e3c12a0c725ffbc.jpg</filename>
+	<path>cebolla-con-el-exterior-se-eliminC3B3-piel_jpg.rf.27a18e145bbafb386e3c12a0c725ffbc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bawang Merah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>247</xmax>
+			<ymin>58</ymin>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>
