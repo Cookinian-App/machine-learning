@@ -12,7 +12,7 @@ The dataset we used comes from:
 
 For more details, visit our [datasets documentation](https://github.com/Cookinian-App/machine-learning/tree/main/dataset/readme.md).
 
-## Model Architecture
+## Model Result
 
 ![model-loss](https://raw.githubusercontent.com/Cookinian-App/machine-learning/main/docs/graph.png)
 
