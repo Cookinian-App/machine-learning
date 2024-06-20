@@ -1,4 +1,4 @@
-# Cookinian ML
+# Cookinian ML 🧑‍🍳
 
 Cookinian is an AI-powered cooking app designed to enhance users' cooking skills and expand their culinary knowledge. Cookinian implements an object detection model to identify users' food ingredients. When users utilize the scan feature, the app returns an image with bounding boxes and detected ingredients. These detected ingredients are then sent to the API, which returns a list of matching recipes.
 
@@ -14,13 +14,10 @@ For more details, visit our [datasets documentation](https://github.com/Cookinia
 
 ## Model Architecture
 
-The model achieved a total loss of 0.37905806 on the training data.
-
 <details>
 <summary>Model Loss</summary>
 
-<!-- ![model-loss](https://drive.google.com/file/d/1y-AL6S6Itl-8gttA0v2UeWYyJa41a3G9/view?usp=sharing)
-![model-loss](https://drive.google.com/file/d/1iht-Sr-9bMuIvB1TaodGOLtMzi3roxdR/view?usp=sharing) -->
+![model-loss](https://raw.githubusercontent.com/Cookinian-App/machine-learning/main/docs/graph.png)
 
 </details>
 
