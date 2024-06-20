@@ -1,4 +1,4 @@
-# Cookinian ML
+# Cookinian ML 🧑‍🍳
 
 ## Object Detection Dataset
 
