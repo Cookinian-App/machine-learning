@@ -14,12 +14,7 @@ For more details, visit our [datasets documentation](https://github.com/Cookinia
 
 ## Model Architecture
 
-<details>
-<summary>Model Loss</summary>
-
 ![model-loss](https://raw.githubusercontent.com/Cookinian-App/machine-learning/main/docs/graph.png)
-
-</details>
 
 ## Model Documentation
 
