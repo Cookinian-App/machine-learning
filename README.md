@@ -24,7 +24,7 @@ To run this model, follow these steps:
 
 - Download the datasets. The dataset can be found [here](https://github.com/Cookinian-App/machine-learning/tree/main/dataset/readme.md).
 - Upload the dataset to your notebook environment.
-- Install the required libraries.
+- Install the required libraries. Things about dependencies can be found [here](https://github.com/Cookinian-App/machine-learning/tree/main/model/README.md).
 - Pre-process the data.
 
 ### Modelling
